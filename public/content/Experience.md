@@ -1,0 +1,55 @@
+## DataToBiz
+- *Full Stack Developer* | Mar'23 - Present
+- ![logodtb](../assets/logodtb.webp)
+- Tags: DataToBiz
+- Badges:
+  - React.js [blue]
+  - Redux [blue]
+  - JavaScript [blue]
+  - HTML 5 [blue]
+  - CSS 3 [blue]
+  - Bootstarp 4,5 [blue]
+  - Python [blue]
+  - Flask [blue]
+  - MySQL [blue]
+  - Node.js [blue]
+  - Express.js [blue]
+- List Items:
+  - Collaborated with fellow engineers to evaluate software and hardware interfaces.
+  - Discussed project progress with customers, collected feedback on different stages and directly addressed concerns.
+  - Managed development milestones from initial steps through final delivery.
+  - Build an In-house project from start to end ( backend, frontend to domain, ssl and deployment on Apache Server) using Node.js and React.js with bootstrap and material-ui and managed some Interns along the way.
+  - Developed functional databases, applications and servers to support websites on back-end.
+
+## DataToBiz
+- *Full Stack Developer (Intern)* | Sept'22 - Mar'23
+- ![logodtb](../assets/logodtb.webp)
+- Tags: DataToBiz
+- Badges:
+  - React.js [blue]
+  - Redux [blue]
+  - HTML 5 [blue]
+  - CSS 3 [blue]
+  - JavaScript [blue]
+  - Bootstarp 4 [blue]
+  - Python [blue]
+  - Flask [blue]
+  - MySQL [blue]
+- List Items:
+  - Worked with senior developers and designers to implement in-house project using HTML, CSS, JavaScript, React, Redux, Flask, Postman, MySql and Python.
+  - Worked on an In-house project (HielakeAi) solely, Backend to Frontend. Creating APIs and Responsive UI Design. 
+  - Worked with AI Team and Designers to achieve functionalities and beautiful design.
+
+## Flipkart
+- *Operations (Intern)* | Feb'22 - May'22
+- ![flipkartlogo](../assets/flipkartlogo.png)
+- Tags: Flipkart
+- Badges:
+  - Inventory Management. [blue]
+  - Auditing [blue]
+  - Inbound [blue]
+  - Outbount [blue]
+  - QC [blue]
+- List Items:
+  - Learn various Warehousing techniques and worked closely with the on floor team.
+  - Explaore and worked in all major parts of operations in Ekart Warehouse.
