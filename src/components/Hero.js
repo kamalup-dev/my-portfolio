@@ -9,10 +9,10 @@ import {
   useColorModeValue,
   createIcon,
 } from "@chakra-ui/react";
-import ProfileArray from "./ProfileArray";
+import ProfileData from "../Data/ProfileData";
 
 export default function Header({ color }) {
-  const profile = ProfileArray();
+  const profile = ProfileData
   const scrollToContact = () => {
     const contactSection = document.querySelector("#contact");
     contactSection.scrollIntoView({ behavior: "smooth" });

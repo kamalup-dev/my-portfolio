@@ -22,12 +22,12 @@ import {
 import { ChevronRightIcon } from "@chakra-ui/icons";
 import { Fade } from "react-reveal";
 import { useState, useEffect } from "react";
-import ExperienceArray from "./ExperienceArray";
-import TagsArray from "./TagsArray";
+import ExperienceData from "../Data/ExperienceData";
+import { ExperienceTags } from "../Data/TagsData";
 
 export default function Experience({ color }) {
-  const experience = ExperienceArray();
-  const options = TagsArray("ExperienceTags");
+  const experience = ExperienceData
+  const options = ExperienceTags
   const [selected, setSelected] = useState("");
 
   useEffect(() => {
@@ -37,6 +37,8 @@ export default function Experience({ color }) {
   }, [options]);
   
   const handleSelected = (value) => {
+
+    console.log(experience)
     setSelected(value);
   };
 

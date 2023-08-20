@@ -16,11 +16,11 @@ import {
 } from "@chakra-ui/react";
 import { MoonIcon, SunIcon, HamburgerIcon } from "@chakra-ui/icons";
 import { useState } from "react";
-import ProfileArray from "./ProfileArray";
+import ProfileData from "../Data/ProfileData";
 const TbIcons = require("react-icons/tb");
 
 export default function Nav({ color }) {
-  const profile = ProfileArray();
+  const profile = ProfileData
   const colors = {
   "blue": "#3182CE", 
   "cyan": "#00B5D8", 

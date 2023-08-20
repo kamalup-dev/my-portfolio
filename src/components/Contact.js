@@ -9,10 +9,10 @@ import {
   Center,
 } from "@chakra-ui/react";
 import { FaLinkedin, FaGithub, FaEnvelope } from "react-icons/fa";
-import ProfileArray from "./ProfileArray";
+import ProfileData from "../Data/ProfileData";
 
 export default function Contact({ color }) {
-  const profile = ProfileArray();
+  const profile = ProfileData
   const linkedin = () => {
     window.open(`${profile.linkedin}`, "_blank", "noreferrer,noopener");
   };

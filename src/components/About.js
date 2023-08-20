@@ -6,10 +6,11 @@ import {
   Box,
   HStack,
 } from "@chakra-ui/react";
-import ProfileArray from "./ProfileArray";
+import ProfileData from "../Data/ProfileData";
 
 export default function About({ color }) {
-  const profile = ProfileArray();
+  const profile = ProfileData
+  console.log(profile)
     return (
       <>
         <Container maxW={"3xl"} id="about">
